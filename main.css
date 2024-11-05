@@ -1,0 +1,25 @@
+.rubik-wet-paint-regular {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    border: 2px solid black;
+  }
+  
+  .anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 2px solid black;
+  }
+  .padyakke-expanded-one-regular {
+    font-family: "Padyakke Expanded One", serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 2px solid black;
+  }
+  p {
+    line-height: 240%;
+   margin-bottom: 4em;
+}  
+
+
